@@ -10,5 +10,6 @@
   "dependencies": {},
   "devDependencies": {
     "parcel-bundler": "^1.6.1"
-  }
+  },
+  "license": "MIT"
 }
